@@ -8,3 +8,4 @@ public static Main {
 //No trigger from Jenkins
 //2/1 - attempting today for trigger
 //success, last test before closing this out
+//testing scripts now to see if jenkins can also build with this code
