@@ -4,3 +4,4 @@ public static Main {
 }
 }
 //Checking for trigger -> still no trigger from jenkins
+//The trigger is done when its the original script -> Changing up the script causes issue. Will need to research different approach
